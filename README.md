@@ -1,12 +1,37 @@
-# Ltts-uttam
+# SDLC Activity Based Learning
+![Banner](https://images.app.goo.gl/nZvLqJsMKvybMu139.png)
+
+Visit [Pages for Report -optional](using github.io option)
+
+Build | Code Quality | Unity | [Git Inspector](using github.io option)
+------|----------|-------|--------------
+[![C/C++ CI](https://github.com/arc-arnob/LnT_Mini_Project/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/arc-arnob/LnT_Mini_Project/actions/workflows/c-cpp.yml) | To be added | To be added | To be added
 
 
-GOVERNMENT OF TAMILNADU DIRECTORATE OF TECHNICAL EDUCATION CHENNAI – 
-600 025 STATE PROJECT COORDINATION UNIT 
-Diploma in Electronics and Communication Engineering 
-Course Code: 1040 M – Scheme e-TEXTBOOK on PROGRAMMING IN “C” for III Semester DECE Convener for ECE Discipline:
-Dr.M.JeganMohan M.E., MBA., Ph.D.,(Management), Ph.D(Eng).,M.I.S.T.E., Principal, 138, Government. Polytechnic College, Uthappanaickanoor, Usilampatti, Madurai – 625 536 Team Members for programming in „‟c‟‟:
-Mrs. C. Aruna Vinodhini B.E., M.TECH., HOD (i/c)/Computer Engineering,
-178, Bharathiyar centenary memorial government women’s polytechnic College, Ettayapuram -628902. 
-Mr.V.S. Raajesh Prabhu M.E., HOD/CSE, 340, KLN Polytechnic College, Madurai – 625009. Mr.P.Jeyasankar M.E., HOD/CSE, 513, 
-Latha Mathavan Polytechnic College, Madurai – 625301. Validated by Dr. S.
+## Folder Structure
+Folder             | Description
+-------------------| -----------------------------------------
+`1_Requirements`   | Documents detailing requirements and research
+`2_Design`         | Documents specifying design details
+`3_Implementation` | All code and documentation
+`4_Test_plan`      | Documents with test plans and procedures
+
+## Contributors List and Summary
+
+SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
+-------|---------|----------------|----------------|---------------|-------------|--------------
+`256131` | Arnob Chowdhury  | Feature A, B etc    | X No     | X No   |X No   |X No     
+   
+
+## Challenges Faced and How Was It Overcome
+
+1. ABC
+2. BCD
+3. ...
+4. ...
+
+## Learning Resources
+1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+2. [markdownBasics](https://guides.github.com/features/mastering-markdown/)
+3. [git inspector](https://github.com/ejwa/gitinspector.git)
+4. [github workflow](https://docs.github.com/en/actions/learn-github-action)
