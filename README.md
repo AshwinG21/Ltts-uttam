@@ -1,5 +1,5 @@
 # SDLC Activity Based Learning
-![Banner](https://images.app.goo.gl/nZvLqJsMKvybMu139.png)
+![Banner](https://images.app.goo.gl/nZvLqJsMKvybMu139.jpeg)
 
 Visit [Pages for Report -optional](using github.io option)
 
